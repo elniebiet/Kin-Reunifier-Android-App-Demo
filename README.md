@@ -4,11 +4,14 @@ We have developed an Android App that utilises facial recognition tech to identi
 # Logo
 ![](screenshots/kin1.jpg)
 
-## Login Screem
+## Login Screen
 ![](screenshots/kin2.jpg)
 
-## Add Record Screen
+## Home
 ![](screenshots/kin3.jpg)
+
+## Add record
+![](screenshots/kin4.jpg)
 
 ## Search for someone
 ![](screenshots/kin4.jpg)
