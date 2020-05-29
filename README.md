@@ -14,4 +14,4 @@ We have developed an Android App that utilises facial recognition tech to identi
 ![](screenshots/kin4.jpg)
 
 ## Search for someone
-![](screenshots/kin4.jpg)
+![](screenshots/kin5.jpg)
